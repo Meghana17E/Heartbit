@@ -1,0 +1,57 @@
+Example sentiments of the textblob
+
+### **Polarity > 0.5 (Highly Positive Sentiment)**  
+1. Excited  
+2. Joyful  
+3. Elated  
+4. Blissful  
+5. Euphoric  
+6. Radiant  
+7. Cheerful  
+8. Ecstatic  
+9. Thrilled  
+10. Overjoyed  
+
+---
+
+### **0 < Polarity ≤ 0.5 (Moderately Positive Sentiment)**  
+1. Content  
+2. Pleased  
+3. Happy  
+4. Relaxed  
+5. Satisfied  
+6. Optimistic  
+7. Calm  
+8. Reassured  
+9. Positive  
+10. Peaceful  
+
+---
+
+### **-0.5 ≤ Polarity < 0 (Moderately Negative Sentiment)**  
+1. Down  
+2. Disappointed  
+3. Frustrated  
+4. Anxious  
+5. Melancholy  
+6. Tired  
+7. Stressed  
+8. Worried  
+9. Irritated  
+10. Uncertain  
+
+---
+
+### **Polarity < -0.5 (Highly Negative Sentiment)**  
+1. Miserable  
+2. Hopeless  
+3. Depressed  
+4. Heartbroken  
+5. Devastated  
+6. Overwhelmed  
+7. Angry  
+8. Despairing  
+9. Exhausted  
+10. Defeated  
+
+---
